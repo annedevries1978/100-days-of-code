@@ -13,5 +13,5 @@ x=list(x)
 print(x)
 
 x = (x**3 for x in range(1,100) if x < 9)
-# starts at number 26
+# goes unti number 9
 print(list(x))
