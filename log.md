@@ -9,3 +9,6 @@ Forked the repo. learned a little about git
 Worked on list comprehension and min max with a key. Now I at least partially understand list comprehension
 and it is very useful
 Also learned to use git in pyCharm
+
+***Day 3***
+Completed the first 4 exercises on exercism.io 
