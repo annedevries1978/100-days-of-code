@@ -11,4 +11,9 @@ and it is very useful
 Also learned to use git in pyCharm
 
 ***Day 3***
+
 Completed the first 4 exercises on exercism.io 
+
+***Day 4***
+
+Did some more excersises on exersism. Struggled with Rna Transscription. Need to learn about zip function
