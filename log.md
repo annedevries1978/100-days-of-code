@@ -17,3 +17,7 @@ Completed the first 4 exercises on exercism.io
 ***Day 4***
 
 Did some more excersises on exersism. Struggled with Rna Transscription. Need to learn about zip function
+
+***Day 5***
+
+Excersises on exercism. Checked the zip function out. It is actually very handy for comparing lists of equal length.
