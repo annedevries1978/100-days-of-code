@@ -21,3 +21,7 @@ Did some more excersises on exersism. Struggled with Rna Transscription. Need to
 ***Day 5***
 
 Excersises on exercism. Checked the zip function out. It is actually very handy for comparing lists of equal length.
+
+***Day 11 ***
+
+Did some moore excersises on Excercism. Meetup problem was very hard. Rotatinal-cypher got quickly solved.  
